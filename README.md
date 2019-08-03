@@ -1,4 +1,4 @@
-# linux-image-5.2.5_X64_bit_versia_griggorii_config
+# linux-image-5.2.5_X64_bit_versia_griggorii_config_kernel
 linux-image-5.2.5 X64 bit versia griggorii config .config
 
 Download kernel deb amd64 https://drive.google.com/open?id=165c-Zuk2j0Dwpypo068fiQ5cUPwbWk_N my OS https://github.com/Griggorii/Cinnamon-Budgie-Linux-OS-11-based-19.04-Ubuntu-Pop/blob/master/README.md
